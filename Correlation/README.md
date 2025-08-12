@@ -14,5 +14,7 @@ The correlation coefficient is the standardized form of covariance and provides 
 Generally, values around ±0.1 indicate a small effect (weak relationship), ±0.3 a medium effect (moderate relationship), and ±0.5 or greater a large effect (strong relationship). *However, these thresholds are approximate guidelines and should not replace interpretation within the specific research context and literature*.
 
 ## Contents
-* Pearson's Correlation
+Navigate the directory by clicking on the desired topic:
+* [Pearson's Correlation](https://github.com/ioakeim-h/R-for-Research/blob/main/Correlation/Pearson.md)
+
 
