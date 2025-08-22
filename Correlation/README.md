@@ -17,14 +17,11 @@ Generally, values around ±0.1 indicate a small effect (weak relationship), ±0.
 
 Although we can directly interpret the effect size of a correlation coefficient, we must also test the hypothesis that the correlation is different from zero (i.e., different from “no relationship”). Significance shows whether an effect likely isn’t due to chance, while effect size shows how large or meaningful that effect is.
 
-## Association Does Not Imply Causation
-
-Correlation coefficients indicate the strength and direction of the relationship between variables but do not indicate causality. Causality cannot be inferred from correlation alone, as other measured or unmeasured variables may affect the observed association. Therefore, correlation should be interpreted cautiously and not regarded as evidence of cause and effect.
-
 ## Contents
 
 Navigate the directory by clicking on the desired topic:
 * [Pearson's Correlation](https://github.com/ioakeim-h/R-for-Research/blob/main/Correlation/Pearson.md)
+
 
 
 
