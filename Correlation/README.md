@@ -1,4 +1,5 @@
-# Welcome
+Browse topics:
+* [Pearson's Correlation](https://github.com/ioakeim-h/R-for-Research/blob/main/Correlation/Pearson/Pearson.md)
 
 This directory provides guidance on when and how to examine relationships between variables in research. 
 Such relationships can be statistically expressed by looking at two measures: *covariance* and the *correlation coefficient*.
@@ -17,10 +18,6 @@ Generally, values around ±0.1 indicate a small effect (weak relationship), ±0.
 
 Although we can directly interpret the effect size of a correlation coefficient, we must also test the hypothesis that the correlation is different from zero (i.e., different from “no relationship”). Significance shows whether an effect likely isn’t due to chance, while effect size shows how large or meaningful that effect is.
 
-## Contents
-
-Navigate the directory by clicking on the desired topic:
-* [Pearson's Correlation](https://github.com/ioakeim-h/R-for-Research/blob/main/Correlation/Pearson.md)
 
 
 
