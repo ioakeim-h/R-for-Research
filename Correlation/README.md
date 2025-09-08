@@ -5,6 +5,7 @@ Such relationships can be statistically expressed by looking at two measures: *c
 
 Topics:
 * [Pearson's Correlation](https://github.com/ioakeim-h/R-for-Research/blob/main/Correlation/Pearson/Pearson.md)
+* [Point-biserial Correlation](https://github.com/ioakeim-h/R-for-Research/blob/main/Correlation/Point-biserial/biserial-and-point-biserial.md)
 
 ## Covariance
 
@@ -19,6 +20,7 @@ The correlation coefficient is the standardized form of covariance and provides 
 Generally, values around ±0.1 indicate a small effect (weak relationship), ±0.3 a medium effect (moderate relationship), and ±0.5 or greater a large effect (strong relationship). *However, these thresholds are approximate guidelines and should not replace interpretation within the specific research context and literature*.
 
 Although we can directly interpret the effect size of a correlation coefficient, we must also test the hypothesis that the correlation is different from zero (i.e., different from “no relationship”). Significance shows whether an effect likely isn’t due to chance, while effect size shows how large or meaningful that effect is.
+
 
 
 
